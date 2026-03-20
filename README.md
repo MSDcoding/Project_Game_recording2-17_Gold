@@ -1,1 +1,5 @@
+Game Release (Gold)
+
+Platform: Windows (PC)
+
 the gold of game : https://drive.google.com/file/d/18ZmS5Ns6Evm4AHoeHd-HlPKSTsR-rvuq/view?usp=sharing
