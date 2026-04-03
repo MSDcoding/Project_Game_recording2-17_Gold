@@ -1,6 +1,7 @@
 # 📼 Recording 2:17
+To ensure the best player experience, this Link includes two separate builds tailored for different input methods. Choose the one that suits your playstyle:
 
-![Release](https://img.shields.io/badge/Status-Gold_Release-gold) ![Platform](https://img.shields.io/badge/Platform-Windows_PC-blue) ![Engine](https://img.shields.io/badge/Engine-Unity-black)
+https://drive.google.com/drive/folders/1o0AGDQ1G5nWlg2zqpdX3fnDYKAg3PekJ?usp=sharing
 
 **Recording 2:17** is my debut game project, developed during my studies at **Geeks Institute**. Created collaboratively within a 4-person team over a 2-month development cycle, this project represents the bridge between conceptual design and a fully playable game.
 
