@@ -10,18 +10,18 @@ https://drive.google.com/drive/folders/1o0AGDQ1G5nWlg2zqpdX3fnDYKAg3PekJ?usp=sha
 ## 🎮 About The Project
 This project served as a deep dive into the complete game development pipeline. It provided hands-on experience in cross-functional teamwork, agile workflows, and the practical challenges of translating raw design concepts into solid gameplay mechanics. 
 
-## My Role & Contributions
+## 👨‍💻 My Role & Contributions
 Acting as both a **Game Developer** and **Game Designer**, I bridged the gap between technical execution and creative vision:
 
 ### 🛠️ Game Development
 * **Core Logic:** Co-engineered the core gameplay loops, mechanics, and interactive features alongside another developer.
 * **Implementation:** Programmed and structured foundational C# logic to ensure a stable and responsive player experience.
 
-###  Game Design
+### 🎨 Game Design
 * **Ideation:** Contributed actively to the brainstorming phases, shaping the core concept of the game.
 * **Design Support:** Assisted in structuring the narrative and refining the game design processes to ensure the mechanics served the overall atmosphere.
 
-##  How to Play
+##  🚀 How to Play : 
 **Version:** Gold Release  
 **Platform:** Windows (PC)
 
