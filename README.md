@@ -1,13 +1,26 @@
-This project is my first game developed during my studies at Geeks Institute. It was created as part of a team over a two-month period.
+# 📼 Recording 2:17
 
-I contributed as a Game Developer and partially as a Game Designer. On the development side, I worked on implementing some of the game features and logic alongside another developer. On the design side, I contributed ideas and supported parts of the game design process.
+![Release](https://img.shields.io/badge/Status-Gold_Release-gold) ![Platform](https://img.shields.io/badge/Platform-Windows_PC-blue) ![Engine](https://img.shields.io/badge/Engine-Unity-black)
 
-This project helped me gain practical experience in teamwork, game development workflows, and turning design concepts into a playable prototype.
+**Recording 2:17** is my debut game project, developed during my studies at **Geeks Institute**. Created collaboratively within a 4-person team over a 2-month development cycle, this project represents the bridge between conceptual design and a fully playable game.
 
-Game Release (Gold)
 
-Platform: Windows (PC)
 
-The Name of Game : Recording 2:17
+## 🎮 About The Project
+This project served as a deep dive into the complete game development pipeline. It provided hands-on experience in cross-functional teamwork, agile workflows, and the practical challenges of translating raw design concepts into solid gameplay mechanics. 
 
-link to test the game : https://drive.google.com/file/d/18ZmS5Ns6Evm4AHoeHd-HlPKSTsR-rvuq/view?usp=sharing
+## My Role & Contributions
+Acting as both a **Game Developer** and **Game Designer**, I bridged the gap between technical execution and creative vision:
+
+### 🛠️ Game Development
+* **Core Logic:** Co-engineered the core gameplay loops, mechanics, and interactive features alongside another developer.
+* **Implementation:** Programmed and structured foundational C# logic to ensure a stable and responsive player experience.
+
+###  Game Design
+* **Ideation:** Contributed actively to the brainstorming phases, shaping the core concept of the game.
+* **Design Support:** Assisted in structuring the narrative and refining the game design processes to ensure the mechanics served the overall atmosphere.
+
+##  How to Play
+**Version:** Gold Release  
+**Platform:** Windows (PC)
+
